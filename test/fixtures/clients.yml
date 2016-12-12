@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: MyString
+  secret: MyString
+  name: MyString
+  app_type: 1
+  active: false
+  refresh_token_life_time: 1
+  aloowed_origin: MyString
+
+two:
+  id: MyString
+  secret: MyString
+  name: MyString
+  app_type: 1
+  active: false
+  refresh_token_life_time: 1
+  aloowed_origin: MyString
